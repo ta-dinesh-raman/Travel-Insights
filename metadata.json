@@ -1,0 +1,6 @@
+{
+  "name": "US Heritage & Tourism Tracker",
+  "description": "Track daily tourism visits across historic US destinations with personalized recommendations and deep historical insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
